@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "52890b2b-7cb5-4b94-bcd3-7607528c2cc0",
+		"name": "New Collection",
+		"description": "trrr",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38024195",
+		"_collection_link": "https://fx-team-2603.postman.co/workspace/243d2fb6-6e6e-4e72-8372-b6fb04387709/collection/38024195-52890b2b-7cb5-4b94-bcd3-7607528c2cc0?action=share&source=collection_link&creator=38024195"
+	},
+	"item": [
+		{
+			"name": "http://localhost:3000/posts",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/posts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
